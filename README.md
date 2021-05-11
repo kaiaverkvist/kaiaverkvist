@@ -1,6 +1,6 @@
 # whoami
 * Kai Averkvist (21 yr)
-* Languages, technologies (non exhaustive): C#, Java, Kotlin, Go❤️, Entity Framework, MySQL, Postgresql, Python, Lua, Javascript, Vue, Svelte❤️
+* Languages, technologies (non exhaustive): C#, Java, Kotlin, Go❤️, Entity Framework, MySQL, Postgresql, Python, Lua, Javascript, Vue, Svelte❤️, and more.
 
 # What do I do?
 
@@ -12,9 +12,8 @@
 
 
 # Personal / hobby projects
-* **Current projects (not exhaustive list)**: 
+* **Current projects (not exhaustive list)**: *work in progress*
 
-*work in progress*
 
     * 🧧 Rednote - note application with support for Lua scripting within notes.
     * ⚙️ PGSF - game server library with automatic entity networking.
