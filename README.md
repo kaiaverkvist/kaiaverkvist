@@ -1,4 +1,4 @@
-# whoami
-👨‍💻 **Software Engineer for [Oslo Kommune](https://oslo.kommune.no/)**
+# λ ~/ whoami
+👨‍💻 **software engineer for [oslo Kommune](https://oslo.kommune.no/)**
 
-🔅 **Technologies**: C#, Java, Kotlin, Go❤️, Entity Framework, MySQL, Postgresql, Python, Lua, Javascript, Vue, Svelte❤️, and more.
+🔅 **technologies**: c#, java, kotlin, go❤️, entity framework, mysql, postgresql, python, lua, javascript, vue, svelte❤️, and more.
